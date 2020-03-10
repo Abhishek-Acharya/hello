@@ -1,4 +1,4 @@
-# hello-world
+# hello
 Demo Repository
 
 Hello this is Abhishek Acharya. I am a Btech final year student.
